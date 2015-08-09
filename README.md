@@ -1,2 +1,2 @@
 # data_science_coursera
-## Course Quiz
+Course Quiz
